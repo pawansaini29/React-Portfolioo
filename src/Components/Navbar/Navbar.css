@@ -9,7 +9,7 @@
     flex: 1;
     gap: 2rem;
     align-items: center;
-    z-index :6;
+    
 }
 
 .n-name {
@@ -24,6 +24,7 @@
     align-items: center;
     justify-content: center;
     font-weight: 400;
+    z-index :6;
 }
 
 .n-list {
